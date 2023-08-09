@@ -1,0 +1,140 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.mp3": "default"
+    },
+    "editor.fontSize": 18,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "grunt.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.cursorBlinking": "smooth",
+    "java.silentNotification": true,
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.preferredDarkColorTheme": "Visual Studio 2017 Dark - C++",
+    "explorer.confirmDelete": false,
+    "python.defaultInterpreterPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310-32\\python.exe",
+    "liveServer.settings.donotVerifyTags": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.enablePreview": false,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.jsx": "javascript",
+        "*.html": "html"
+    },
+    "miramac.node.terminalMode": true,
+    "git.suggestSmartCommit": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "explorer.confirmDragAndDrop": false,
+    "php.validate.executablePath": "",
+    "git.openRepositoryInParentFolders": "never",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "C_Cpp.default.compilerPath": "d:\\Users\\User\\3D Objects\\Major Project\\Tailwind CSS\\Code Files\\All session_links\\session-links.html",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "tabnine.experimentalAutoImports": true,
+    "[postcss]": {
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+    "workbench.startupEditor": "none",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontLigatures": true,
+    "java.project.outputPath": "",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "codesandbox.currentWorkspace": "b61d1a8c-0554-4f70-9ecd-bc6aac6e024e",
+    "remote.SSH.remotePlatform": {
+        "sandbox.kmxfqz.csb": "linux"
+    },
+    "editor.fontFamily": "MonoLisa Trial,Menlo,Consolas, 'Courier New', monospace",
+    "workbench.preferredHighContrastColorTheme": "CodeSandbox-Black",
+    "workbench.iconTheme": "hypernym-icons",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "window.autoDetectHighContrast": false,
+    "customizeUI.stylesheet": {},
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.renderLineHighlight": "all",
+    "workbench.colorCustomizations": {
+        "editor.background": "#242424",
+        // "editor.background": "#191919",
+        // "sideBar.background": "#202020",
+        "sideBar.background": "#242424",
+        // "button.background":"#6e6e73",
+        "activityBar.background": "#242424",
+        // "editorLineNumber.background":"#202020"
+        "sideBar.border": "#363636",
+        "activityBar.activeBorder": "#242424",
+        "sideBarSectionHeader.background": "#242424",
+        "sideBarTitle.foreground": "#838383",
+        "sideBarSectionHeader.border": "#242424",
+        "activityBar.activeBackground": "#242424",
+        "statusBar.background": "#242424",
+        "statusBar.foreground": "#858585",
+        "statusBarItem.remoteBackground": "#242424",
+        "titleBar.activeBackground": "#242424",
+        "titleBar.border": "#242424",
+        "menubar.selectionForeground": "#858585",
+        "menu.background": "#242424",
+        // "menu.selectionBackground":"#009eb3",
+        // "keybindingLabel.border":"#242424",
+        "toolbar.hoverBackground": "#757575",
+        "toolbar.hoverOutline": "#757575",
+        "button.background": "#242424",
+        "button.hoverBackground": "#009eb3",
+        "button.secondaryBackground": "#009eb3",
+        "list.activeSelectionBackground": "#525252",
+        "list.focusOutline": "#242424",
+        "list.focusAndSelectionOutline": "#242424",
+        "list.hoverBackground": "#4e4e4e",
+        "list.hoverForeground": "#b1b1b1",
+        "list.inactiveSelectionBackground": "#4d4d4d",
+        "activityBar.border": "#242424",
+        "activityBar.activeFocusBorder": "#242424",
+        "editor.lineHighlightBackground": "#242424",
+        "editor.lineHighlightBorder": "#242424",
+        "editorLineNumber.activeForeground":"#b1b1b1",
+        "editorLineNumber.foreground":"#757575",
+        "editorCursor.foreground":"#b1b1b1",
+        "editorGroupHeader.noTabsBackground":"#242424",
+        "editorGroupHeader.tabsBackground":"#242424",
+        "editorGroupHeader.tabsBorder":"#242424",
+        "editorGroup.emptyBackground":"#242424",
+        "tab.activeBackground":"#242424",
+        "tab.unfocusedActiveBackground":"#242424",
+        "tab.inactiveBackground":"#242424",
+        "tab.activeBorder":"#242424",
+        "tab.inactiveModifiedBorder":"#242424",
+    },
+}
