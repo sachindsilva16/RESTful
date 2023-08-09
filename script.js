@@ -136,16 +136,16 @@ app.route("/articles/:articleTitle")
 
     })
 
-    .delete(function(req,res){
-        Article.findOneAndDelete({title:req.params.articleTitle}).then(function(foundArticle){
-            if(foundArticle){
-            res.send("Your article is deleted succesfully");
+    .delete(function (req, res) {
+        Article.findOneAndDelete({ title: req.params.articleTitle }).then(function (foundArticle) {
+            if (foundArticle) {
+                res.send("Your article is deleted succesfully");
 
             } else {
                 res.send("No such article found in the database");
             }
-            
-        }).catch(function(err){
+
+        }).catch(function (err) {
             res.send(err);
         });
     });
